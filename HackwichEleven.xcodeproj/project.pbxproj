@@ -13,6 +13,7 @@
 		CF55ABC8292702E000E5BF2E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF55ABC6292702E000E5BF2E /* Main.storyboard */; };
 		CF55ABCA292702E300E5BF2E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF55ABC9292702E300E5BF2E /* Assets.xcassets */; };
 		CF55ABCD292702E300E5BF2E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF55ABCB292702E300E5BF2E /* LaunchScreen.storyboard */; };
+		CF55ABD5292709A700E5BF2E /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF55ABD4292709A700E5BF2E /* Restaurant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CF55ABC9292702E300E5BF2E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CF55ABCC292702E300E5BF2E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CF55ABCE292702E300E5BF2E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CF55ABD4292709A700E5BF2E /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				CF55ABC2292702E000E5BF2E /* SceneDelegate.swift */,
 				CF55ABC4292702E000E5BF2E /* ViewController.swift */,
 				CF55ABC6292702E000E5BF2E /* Main.storyboard */,
+				CF55ABD4292709A700E5BF2E /* Restaurant.swift */,
 				CF55ABC9292702E300E5BF2E /* Assets.xcassets */,
 				CF55ABCB292702E300E5BF2E /* LaunchScreen.storyboard */,
 				CF55ABCE292702E300E5BF2E /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF55ABD5292709A700E5BF2E /* Restaurant.swift in Sources */,
 				CF55ABC5292702E000E5BF2E /* ViewController.swift in Sources */,
 				CF55ABC1292702E000E5BF2E /* AppDelegate.swift in Sources */,
 				CF55ABC3292702E000E5BF2E /* SceneDelegate.swift in Sources */,
